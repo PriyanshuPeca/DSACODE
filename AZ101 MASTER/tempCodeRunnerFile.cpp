@@ -1,6 +1,5 @@
-#include<iostream>
+#include<iostream?
 using namespace std;
-int main()
 {
     cout<<"helloc";
     return 0;
